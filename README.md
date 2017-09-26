@@ -24,4 +24,5 @@ Please use as appropriate for your version. Hope you enjoy the theme!
 Refers to:
 
 https://github.com/eugeii/ida-consonance
+
 https://github.com/zyantific/IDASkins/releases/tag/v1.4.1
