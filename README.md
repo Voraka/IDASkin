@@ -1,7 +1,7 @@
-idaConsonance
+IDASkin
 =============
 
-Consonance, a dark color theme for IDA.
+A dark color theme for IDA.
 
 The scheme is distributed in two forms:
 
@@ -18,4 +18,8 @@ The scheme is distributed in two forms:
 
 Please use as appropriate for your version. Hope you enjoy the theme!
 
+Refers to:
 
+https://github.com/eugeii/ida-consonance
+https://github.com/zyantific/IDASkins
+https://github.com/zyantific/IDASkins/releases/tag/v1.4.1
