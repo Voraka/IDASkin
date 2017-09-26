@@ -3,6 +3,9 @@ IDASkin
 
 A dark color theme for IDA.
 
+
+![image](https://raw.githubusercontent.com/zyantific/IDASkins/master/skin/idadark-unis/preview.png)
+
 The scheme is distributed in two forms:
 
   + A registry file (.reg) for versions of IDA that do not support color themes (IDA 6.3 and prior)
@@ -21,5 +24,4 @@ Please use as appropriate for your version. Hope you enjoy the theme!
 Refers to:
 
 https://github.com/eugeii/ida-consonance
-https://github.com/zyantific/IDASkins
 https://github.com/zyantific/IDASkins/releases/tag/v1.4.1
